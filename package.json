@@ -17,6 +17,7 @@
   "dependencies": {
     "query-string": "^5.0.1",
     "random-hex-color": "^1.0.1",
+    "socket.io": "^2.0.4",
     "ws": "^3.2.0"
   },
   "devDependencies": {}
